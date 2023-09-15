@@ -1,0 +1,39 @@
+figcaption {
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-style:oblique ;
+}
+
+h1{
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    text-indent: 50%;
+
+}
+
+h2{
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    text-indent: 45%;
+}
+
+.poem{
+    text-indent: 30%;
+}
+
+.line-2{
+    text-indent: 35%;
+}
+
+.line-3{
+    text-indent: 40%;
+}
+
+.line-4{
+    text-indent: 45%;
+}
+
+.stanza-1{
+    text-align: center;
+}
+
+.stanza-2{
+    text-align: center;
+}
